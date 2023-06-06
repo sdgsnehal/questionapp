@@ -15,7 +15,7 @@ function LoginForm() {
     <div class="col-md-5 col-lg-4">
     <div className="wrapper  d-flex align-items-center justify-content-center w-100">
       <div className="login rounded">
-        <h2 className="mb-3">Login Form</h2>
+        <h2 className="mb-3">Login</h2>
         <form className="needs-validation">
           <div className="form-group was-validated mb-2">
             {/* <label htmlFor="email" className="form-label">Email Address</label> */}
